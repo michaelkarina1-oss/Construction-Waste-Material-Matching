@@ -1,3 +1,15 @@
+🏗️ SiteSync Next-Gen: מערכת התאמה לפסולת בנייה ועודפי חומרים
+
+פלטפורמת ConTech לאופטימיזציה, פינוי והתאמה בזמן אמת של עודפי עבודות עפר, חול, בטון גרוס ופסולת נקייה באתרי בנייה.
+
+💡 תרחיש שימוש ובעיית הליבה
+
+המערכת פותרת אתגר קלאסי בלוגיסטיקה של אתרי בנייה: אתר א' משלם הון עתק על פינוי עודפי עפר או בטון, בעוד שאתר ב' הסמוך משלם הון עתק על רכישת חומרי מילוי ומצעים.
+<img width="1185" height="640" alt="image" src="https://github.com/user-attachments/assets/ca30ac9a-ee8a-4a00-a700-e0bd78ed79ac" />
+
+
+SiteSync מחברת בין השניים בזמן אמת, מונעת שינוע מיותר, חוסכת עשרות אלפי שקלים בדמי הטמנה ודלק, ומפחיתה פליטות פחמן.
+
 🏗️ SiteSync Next-Gen: Construction Waste & Surplus Material Matcher
 A ConTech platform for real-time optimization, removal, and matching of surplus construction earthworks, sand, crushed concrete, and clean waste.
 
